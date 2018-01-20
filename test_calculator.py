@@ -1,4 +1,5 @@
 import unittest
+from calculator import Calculator
 
 class TddInPythonExample(unittest.TestCase):
     def test_calculator_add_method_returns_correct_result(self):
